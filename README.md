@@ -1,4 +1,4 @@
-# Debouncing in React
+# Throttling in React
 In this project, I have developed a search bar and implemented throttling and Abort Controller.
 
 
